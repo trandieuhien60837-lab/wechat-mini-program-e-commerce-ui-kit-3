@@ -1,0 +1,6 @@
+{
+  "name": "WeChat Mini Program E-Commerce UI Kit",
+  "description": "A comprehensive, minimalist WeChat e-commerce mini program UI specification and interactive previewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
